@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 
 
 
-[![Header](https://raw.githubusercontent.com/fatmaadam-lab/fatmaadam-lab/readme_header.png "Header")](https://some-url.dev/)
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
