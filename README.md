@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+[![Header](https://raw.githubusercontent.com/fatmaadam-lab/fatmaadam-lab/readme_header.png "Header")](https://some-url.dev/)
