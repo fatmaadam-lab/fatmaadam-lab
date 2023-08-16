@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Fatma Adam</h1>
 
 <img src="https://github.com/fatmaadam-lab/fatmaadam-lab/blob/main/header.png" >
-<h3>Full Stack Developer .</h3>
+<h3>Full Stack Developer | Business Analysis In Training </h3>
 <p> Someone who's passionate about communicate with computers | crazy about building websites | deeply believe in the 
   power of programming 🔥 | speak English and Arabic. </p>
 
