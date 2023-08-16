@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma Adam</h1>
+<h1>Hi 👋, I'm Fatma Adam</h1>
 <h3>Full Stack Developer .</h3>
 <p> Someone who's passionate about communicate with computers | crazy about building websites | deeply believe in the power of programming 🔥 | speak English and Arabic. </p>
 
